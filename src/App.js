@@ -1,6 +1,6 @@
 import React, { Component, useState, useEffect } from "react";
 import RouterApp from "./RouterApp";
-import "./styles/Styles.css";
+import "./Styles/Styles.css";
 import Footer from "./Component/Footer/Footer";
 import Loader from "./Component/Loader/Loader";
 
